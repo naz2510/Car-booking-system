@@ -1,5 +1,4 @@
 
-ChatGPT
 This project is a basic Car Booking System implemented in C. It allows users to perform various operations related to car models and bookings through a menu-driven interface. Let's break down the components of the project and then suggest possible names for it.
 
 Project Overview
