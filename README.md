@@ -14,6 +14,7 @@ Book Car (carBooking()): Enables booking of a car model by a customer. It checks
 Booked Car List (bookedList()): Displays a list of booked cars along with customer details (name, address, phone number), car name, and booking date. Data is read from issue.txt.
 
 Remove Booking (cdel()): Allows removal of a booking based on customer name. It reads data from issue.txt, removes the booking record for the specified customer, and updates the file.
+
 ![Screenshot 2024-07-01 160737](https://github.com/peenaz1/Car-booking-system/assets/174327360/3b892218-d98e-463c-89d5-522f78f3a155)
 
 ![2](https://github.com/peenaz1/Car-booking-system/assets/174327360/ce1d272b-21e9-4251-9be4-493bb6bc6799)
